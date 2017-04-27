@@ -1,4 +1,4 @@
-# mark
+# Low disk space on a IntelliJ IDEA system directory partition
 
 1.在运行intellij idea的时候，提示Low disk space on a IntelliJ IDEA system directory partition。
 
